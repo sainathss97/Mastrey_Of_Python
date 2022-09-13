@@ -2,7 +2,7 @@
 
 Which covers most  advance topics in python with bitesized examples
 
-# [1. Object Oriented Programming]()
+## [1. Object Oriented Programming](https://github.com/sainathss97/Mastrey_Of_Python/blob/main/Object%20oriented%20Programing)
 
     a. OOP
 
@@ -46,9 +46,8 @@ Which covers most  advance topics in python with bitesized examples
 
     u. MRO - Method Resolution Order
 
+## [2.Functional Programming](https://github.com/sainathss97/Mastrey_Of_Python/blob/main/Functional%20Programing)
 
-# [2.Functional Programming](#)
-   
     A. Functional Programming
 
     B. What Is Functional Programming?
@@ -74,20 +73,17 @@ Which covers most  advance topics in python with bitesized examples
     L. Set and Dictionary Comprehension
     
     M. Exercise: Comprehensions
-    
 
+## 3. Decorators
 
-# 3. Decorators
+## 4.Error Handling
 
-# 4.Error Handling
+## 5.Generators
 
-# 5.Generators
+## 6.Modules
 
-# 6.Modules
+## 7.Debugging
 
-# 7.Debugging
+## 8. File I/O
 
-# 8. File I/O
-
-# 9. Regular Expressioms
-
+## 9. Regular Expressioms
